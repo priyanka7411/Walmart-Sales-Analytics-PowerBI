@@ -105,7 +105,7 @@ A comprehensive Power BI project that analyzes Walmart store sales across time, 
 **Priyanka Malavade**  
 🎓 *Aspiring Data Analyst | Turning data into decisions*  
 📧 [priyasmalavade@gmail.com](mailto:priyasmalavade@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🔗 [LinkedIn](https://www.linkedin.com/in/priyanka-malavade-b34677298/)  
 
 ---
 
