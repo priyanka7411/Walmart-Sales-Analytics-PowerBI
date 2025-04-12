@@ -1,0 +1,42 @@
+{
+    "name": "Sales Overview Theme",
+    "dataColors": ["#4F81BD", "#C0504D", "#9BBB59", "#8064A2", "#F79646"],
+    "background": "#FFFFFF",
+    "foreground": "#333333",
+    "tableAccent": "#4F81BD",
+    "visualStyles": {
+      "*": {
+        "*": {
+          "title": [
+            {
+              "color": { "solid": { "color": "#333333" } },
+              "fontSize": 14,
+              "fontFamily": "Segoe UI"
+            }
+          ],
+          "labels": [
+            {
+              "color": { "solid": { "color": "#000000" } }
+            }
+          ],
+          "categoryLabels": [
+            {
+              "color": { "solid": { "color": "#666666" } }
+            }
+          ],
+          "grid": [
+            {
+              "gridlineColor": { "solid": { "color": "#DDDDDD" } }
+            }
+          ],
+          "background": [
+            {
+              "color": { "solid": { "color": "#F4F4F4" } },
+              "transparency": 0
+            }
+          ]
+        }
+      }
+    }
+  }
+  
