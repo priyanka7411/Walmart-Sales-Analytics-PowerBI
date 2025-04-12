@@ -67,9 +67,12 @@ Walmart-Sales-Analytics-PowerBI/ │ ├── PowerBI_Dashboard/ │ ├── 
 
 ---
 
-## 📷 Screenshots
+## 📘 Dashboard PDF Preview
 
-![Dashboard Preview]()
+You can view the full dashboard preview in the PDF below:
+
+👉 [Click here to open the Walmart Sales Analytics Dashboard (PDF)](https://github.com/priyanka7411/Walmart-Sales-Analytics-PowerBI/blob/main/supplychain.pdf)
+
 
 ---
 
